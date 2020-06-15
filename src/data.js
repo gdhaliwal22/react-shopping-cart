@@ -26,5 +26,12 @@ export default [
 		price: 40.00,
 		image:
 			'https://images-na.ssl-images-amazon.com/images/I/61uUPXbhMxL._SX397_BO1,204,203,200_.jpg'
+	},
+	{
+		id: 5,
+		title: 'Influence: The Psychology of Persuasion',
+		price: 10.98,
+		image:
+			'https://images-na.ssl-images-amazon.com/images/I/512-B-1yXuL._SX331_BO1,204,203,200_.jpg'
 	}
 ];
